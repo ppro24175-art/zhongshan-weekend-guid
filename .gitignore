@@ -1,0 +1,9 @@
+dist/
+assets/
+output/
+tmp/
+.firecrawl/
+.npm-cache/
+__pycache__/
+scripts/*.py
+scripts/build-static.ps1
